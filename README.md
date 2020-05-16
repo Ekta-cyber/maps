@@ -1,2 +1,1 @@
-# maps
-mapping data with leaflet
+![](comp.gif)
